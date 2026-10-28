@@ -1,0 +1,23 @@
+{
+  "name": "jsaqa-task7.1",
+  "version": "1.0.0",
+  "description": "Seventh task for the Web UI test automation course (first part)",
+  "homepage": "https://github.com/k-o-white/jsaqa-task7.1#readme",
+  "bugs": {
+    "url": "https://github.com/k-o-white/jsaqa-task7.1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/k-o-white/jsaqa-task7.1.git"
+  },
+  "license": "ISC",
+  "author": "Kirill Burilichev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^16.2.0"
+  }
+}

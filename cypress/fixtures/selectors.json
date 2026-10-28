@@ -1,0 +1,26 @@
+{
+  "mainPage": {
+    "title": ".page-header__title",
+    "days": ".page-nav__day",
+    "thirdDay": ".page-nav__day:nth-of-type(3)",
+    "movieObject": ".movie",
+    "time": "13:00"
+  },
+  "bookingPage": {
+    "bookButton": ".acceptin-button"
+  },
+  "paymentPage": {
+    "paymentHeader": "Вы выбрали билеты",
+    "chairs": ".ticket__chairs"
+  },
+  "admin": {
+    "email": "input[name='email']",
+    "password": "input[name='password']",
+    "submit": "input[type='submit']",
+    "panelTitle": ".conf-step__title",
+    "panelTitleText": "Управление залами",
+    "movie": ".conf-step__movie:nth-of-type(1)",
+    "movieTitle": ".conf-step__movie-title",
+    "errorText": "Ошибка авторизации!"
+  }
+}
